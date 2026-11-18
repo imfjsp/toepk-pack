@@ -1,0 +1,12 @@
+name = "Pretty Pipes: Fluids"
+filename = "ppfluids-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "ea8389bf03a370b5d8e896af918ad31745daa5c6453a020babd026ed1cf50fbfec060b7ea7c15dc0e30b461246b0a811619d9383062736e1df302556b747aed2"
+url = "https://cdn.modrinth.com/data/rZwE3agR/versions/PjeNNBmP/ppfluids-1.20.1-2.0.2.jar"
+
+[update.modrinth]
+mod-id = "rZwE3agR"
+version = "PjeNNBmP"

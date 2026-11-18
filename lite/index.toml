@@ -1691,6 +1691,11 @@ hash = "4445e1b4365a29e2a176d1703bad1438c55727b14605fe67abe7de4995297918"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "b492d47ca407ce3dd67a9c76fd921e2167e049a3922646c44dde97df00839382"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "c8124c83a6cb70446b6cfd7c57e945de2363d5d562c8f310bb528618b0c8b8f5"
 metafile = true
@@ -1726,6 +1731,11 @@ hash = "7c1417762681a4c7db4536309bd43a7bcd21baa1b19a81d5f7b8136094993d2c"
 metafile = true
 
 [[files]]
+file = "mods/bones-uprising.pw.toml"
+hash = "848705b39f5ec39e4ab2afb3dd97458a33cdf284af0f312a7bcad49870b78442"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "e52df13881a0b84bd33e6c5c28bdd630c64d53af14d661a026017a140c5133d7"
 metafile = true
@@ -1733,6 +1743,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "d14544b24cbab0b8d55e6aeb145dcd7a5344016d9c34414136d03a49aff4a939"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "7012db5e966b8bf50ef4809a8d326d2eddd0919a0cdb544a9c1cdfbb06bd351c"
 metafile = true
 
 [[files]]
@@ -1825,8 +1840,23 @@ hash = "7ea6ac58a7b49806e1565e35c55c1c8a5a44f6d720e6cbebe780ff2e66b7fe73"
 metafile = true
 
 [[files]]
+file = "mods/crackers-wither-storm-mod.pw.toml"
+hash = "37bf1b689860598631ca3d45e767480b80d13c668affb735cc7ece624fdd25d4"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "33b86f38fe3de23a7949d26017968fcc73998d07370ab2ef29f9edeb4da79872"
+metafile = true
+
+[[files]]
+file = "mods/create-frostworks.pw.toml"
+hash = "66cefcb7b4baa6104ea7b05008b9b0d788b5caf13607ddb3198931b32b0fe87b"
+metafile = true
+
+[[files]]
+file = "mods/create-kart.pw.toml"
+hash = "2da539ee8805ba69a9a3f0fceadd9ebeb513ae380c06c42b1c15964810759fbc"
 metafile = true
 
 [[files]]
@@ -1870,8 +1900,23 @@ hash = "fddf04616e0a22a31d4094d9d4aef70eaafabb31820d38a96b97987c0f3152cc"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "d968641a599f7370d40f32f2eb0b66cf9b815d342cdfc93ac17f86a807de91eb"
+metafile = true
+
+[[files]]
 file = "mods/dac-x-irons-spells.pw.toml"
 hash = "0145c7bed5e6abb902ccc838fc61757639e7c95b95fb77d7f6fefdfdef0706bb"
+metafile = true
+
+[[files]]
+file = "mods/deeper-and-darker-spellbooks.pw.toml"
+hash = "7f838ca2bc99a2efb413ab9493f42186a772ee73cdb1e134ba72e8719ae90479"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "587e160bebd563ee3fab546773118ff31ef6fe1a935b205da2f9f208d6c15335"
 metafile = true
 
 [[files]]
@@ -1927,6 +1972,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "75d0eb4390b8e32034fa2327badfbdaaa09b7e606d5b9b7f58901f75ddce671d"
+metafile = true
+
+[[files]]
+file = "mods/ender-dragon-plus.pw.toml"
+hash = "7cb25647397b3d5a7d27de2454cf19f9fabef88940ab7d48eea31deecbddc327"
 metafile = true
 
 [[files]]
@@ -2160,6 +2210,11 @@ metafile = true
 [[files]]
 file = "mods/frieren-spells-zoltraak-singularity-irons-spells.pw.toml"
 hash = "1c269007d125cba31d64c1a70dd13a144942ef7d86d24ac31afa049a7cb65579"
+metafile = true
+
+[[files]]
+file = "mods/frogilib.pw.toml"
+hash = "7be1f9c98f0889696e4ec75ebc75286b57dfb9e90ff6f005b5ecc87c8567e239"
 metafile = true
 
 [[files]]
@@ -2502,6 +2557,16 @@ hash = "bf52cfb25247bdfefc3e5b79ad4c0648a772e7198b8a401d28a156e13f0336a9"
 metafile = true
 
 [[files]]
+file = "mods/pretty-pipes-fluids.pw.toml"
+hash = "222301128653dbf4584d1f208f286ad0908dac84a0a23447bb7986d38185af08"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "dad8dbd1105c55513e8b1b57060ea985dcbf48272df495906c6fc14ff8a452a3"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "2a73754f2fc4b46b0ecf061f16237fe5c936e667345925f3ec0b9ba46463b7ef"
 metafile = true
@@ -2564,6 +2629,11 @@ metafile = true
 [[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "ace90a52e830508992dc05b493cc66fc42e0f6becc13e50bc16506e05fbc2129"
+metafile = true
+
+[[files]]
+file = "mods/saints-dragons.pw.toml"
+hash = "94617eccf771f0db6b58aa557b61192b45a79baf4747d7e7aa949fd52b71b1a1"
 metafile = true
 
 [[files]]
@@ -2664,6 +2734,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "beee71d1ec452cc59c1a3fee5f39188c141fc5a9435918f466a20de78d427e0c"
+metafile = true
+
+[[files]]
+file = "mods/thalassophobia.pw.toml"
+hash = "32852eb05f841ece22c24ddf8425e4005a1a237baecb5ddf96b41a0475f724b4"
 metafile = true
 
 [[files]]

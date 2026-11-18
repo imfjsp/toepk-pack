@@ -1,0 +1,12 @@
+name = "Frieren Flight - Iron's Spells"
+filename = "zoltraak_cinematic-forge-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df60a7c97f79267cda48b52ca985435fc21aa9b4"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9525303
+project-id = 1706277

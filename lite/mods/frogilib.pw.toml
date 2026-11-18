@@ -1,0 +1,12 @@
+name = "FrogiLib"
+filename = "frogilib-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2600b458408c11eb182529fff9be73cae8ca5e44"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9456203
+project-id = 1543125

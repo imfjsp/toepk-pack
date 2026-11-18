@@ -1,0 +1,12 @@
+name = "Deeper and Darker: Spellbooks"
+filename = "darkermagic-1.4.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "70880a419ab7ac4d641240b94067d483e7429508d75d61172f9c67a566f7e5850691f7d9cf1fd2a968bdcf971390844c32a7786b19bf08c6c3d3339542cfc8e6"
+url = "https://cdn.modrinth.com/data/bY4q13Xr/versions/CtfadGQa/darkermagic-1.4.0-1.20.1.jar"
+
+[update.modrinth]
+mod-id = "bY4q13Xr"
+version = "CtfadGQa"
