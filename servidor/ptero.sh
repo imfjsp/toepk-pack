@@ -14,6 +14,8 @@ exec > >(tee -a /var/log/toepk-ptero.log) 2>&1
 say() { echo "[toepk] $*"; echo "$*" > /root/toepk-estado.txt; }
 die() { say "ERROR: $*"; exit 1; }
 export DEBIAN_FRONTEND=noninteractive
+# el startup-script corre sin HOME, y composer lo necesita
+export HOME=/root COMPOSER_HOME=/root/.composer COMPOSER_ALLOW_SUPERUSER=1
 
 IP=$(curl -fsS -H "Metadata-Flavor: Google" \
   http://metadata.google.internal/computeMetadata/v1/instance/network-interfaces/0/access-configs/0/external-ip)
@@ -50,7 +52,7 @@ SQL
 
 say "4/8 configuracion del panel"
 [ -f .env ] || cp .env.example .env
-COMPOSER_ALLOW_SUPERUSER=1 composer install --no-dev --optimize-autoloader -n -q || die "composer install"
+composer install --no-dev --optimize-autoloader -n || die "composer install"
 grep -q '^APP_KEY=base64' .env || php artisan key:generate --force
 php artisan p:environment:setup -n --author=admin@example.com --url="https://$FQDN" --timezone=America/Santiago \
   --cache=redis --session=redis --queue=redis --redis-host=127.0.0.1 --redis-pass=null --redis-port=6379 \
