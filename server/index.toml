@@ -1910,11 +1910,6 @@ hash = "81343a4254772a7c4bc0f20ed49a7f970c12b78bb6e64eed09c40e2fa79f4bc7"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-retaliation.pw.toml"
-hash = "7fa0d5496d7ad56df99410494de2c9ff199098196463c103c7f22cfff3e5992c"
-metafile = true
-
-[[files]]
 file = "mods/epic-fight-skill-irons-spells-n-spellbooks.pw.toml"
 hash = "7ae6a427e70247e7dc9c7e9221e6f4b5141136f20d5382cef00635e69dbd2ab9"
 metafile = true
