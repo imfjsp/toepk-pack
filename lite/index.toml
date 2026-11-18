@@ -2672,8 +2672,8 @@ hash = "0322f3682b3b7789baa121a26a96f4469963648fdcbe7f3c065752358f395fc1"
 metafile = true
 
 [[files]]
-file = "mods/toepk-0.47.3.jar"
-hash = "7f25baf7c523111fcab968232eb8179816d7e24325b22506078503afc0807f48"
+file = "mods/toepk-0.47.4.jar"
+hash = "a0cef5a032501b65a7a84a7a89547bb98974f325b26c5d232809f83756dfd1ef"
 
 [[files]]
 file = "mods/toepktweaks-1.0.4.jar"
