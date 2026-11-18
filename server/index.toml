@@ -2522,8 +2522,8 @@ hash = "0322f3682b3b7789baa121a26a96f4469963648fdcbe7f3c065752358f395fc1"
 metafile = true
 
 [[files]]
-file = "mods/toepk-0.47.1.jar"
-hash = "8a468ed3c45aca9c8c4c9b28dda733ec15371cee54fe0df65e34fe0d24241e33"
+file = "mods/toepk-0.47.2.jar"
+hash = "7b077d17601f597076e9eb8a5ade987f745d197b449e162394854e4e2cec3a4e"
 
 [[files]]
 file = "mods/toepk-servidor-1.2.0.jar"
