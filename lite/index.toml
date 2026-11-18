@@ -1178,7 +1178,7 @@ hash = "231984ffa0d6007d9048b5da8d809e3a03aad4a60c5dee944ccdbae533aa4c51"
 
 [[files]]
 file = "config/particular-common.toml"
-hash = "d5f85731223253fe39f35853ad279a6aa9fabd6953cf1b0015f3bb6b13913d86"
+hash = "e51eaadb05fdf1f0829c42b26973de79871e19debd66cd4c06ca792c9a027c20"
 
 [[files]]
 file = "config/perception.yaml"
@@ -1760,6 +1760,11 @@ hash = "7d905c24efc504f8ad7e231d39326c597cd23ef3dda0999ccee56a659187792b"
 metafile = true
 
 [[files]]
+file = "mods/cinematic-cataclysm.pw.toml"
+hash = "ee5eee6929fbea3798bce8c62fa03916389cbea1921b6a8a87eb5104df7a7104"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "d671c7a82cfcd7f2f49f2d23cb6c2e6cda5b9518a1149db487c7dd4a470d038b"
 metafile = true
@@ -1772,6 +1777,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "f841190eef33156a8c19bf85cf87920b6e5bfcd2729f12b6279882579e62a35a"
+metafile = true
+
+[[files]]
+file = "mods/coastal-waves.pw.toml"
+hash = "67c789bd3141976e8febb9fdc4ab9c871e9495b55cb19c39ce6730c3a7f1bb79"
 metafile = true
 
 [[files]]
@@ -2459,6 +2469,11 @@ metafile = true
 [[files]]
 file = "mods/parcool.pw.toml"
 hash = "11040f55dcc7db0cec6ae9c1608c55be878526446c948dce054a0ce9e548ea82"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "853ea35d2e1f239902252ac167097ed9fe79ea3cd4e059e7f9bcb699750e3945"
 metafile = true
 
 [[files]]
