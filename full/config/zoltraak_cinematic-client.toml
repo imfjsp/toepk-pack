@@ -1,0 +1,48 @@
+
+#Visual Accessibility & Screen Dynamics
+[visual_accessibility]
+	#Master toggle for full-screen blinding white flash overlays (Supernova, Great Zoltraak).
+	#Set to false for photosensitive or epileptic players.
+	enableScreenFlash = true
+	#Opacity/brightness intensity multiplier for screen flash overlays (0.0 = completely off, 1.0 = full intensity).
+	#Range: 0.0 ~ 1.0
+	screenFlashIntensity = 1.0
+	#Whether camera shake vibrations occur during massive detonations and high-energy spell releases.
+	enableCameraShake = true
+	#Camera shake intensity multiplier (0.0 = static camera, 1.0 = standard cinematic rumble, 2.0 = heavy rumble).
+	#Range: 0.0 ~ 3.0
+	cameraShakeMultiplier = 1.0
+	#Whether the camera tilts/banks with aerodynamic roll (+/- 6.5 deg) when turning during flight.
+	enableFlightCameraRoll = true
+	#Whether 3D cinematic camera choreography (Dolly Zoom, orbital tracking, supernova wide shot) plays during Gargantua casting and active singularity.
+	#Press Jump (Spacebar) in-game to quickly skip an active cinematic camera cutscene.
+	enableCinematicCamera = true
+
+#Shader Performance & Post-Processing
+[shader_performance]
+	#Accretion disk geodesic leapfrog raymarching quality preset.
+	#Allowed values: LOW (32 steps), MEDIUM (64 steps), HIGH (96 steps), ULTRA (128 steps).
+	#Use LOW for integrated graphics (iGPUs) or handheld devices like Steam Deck.
+	blackHoleRaymarchSteps = "MEDIUM"
+	#Outer radius of Gargantua's accretion disk in gravitational radii (r_g).
+	#Higher values create a wider, more majestic interstellar gas disk (Default: 22.0, Original: 13.5).
+	#Range: 8.0 ~ 40.0
+	accretionDiskOuterRadius = 22.0
+	#Whether horizontal 16-sample Gaussian anamorphic streak flares render on beam cores.
+	enableAnamorphicLensFlares = true
+	#Whether fullscreen spacetime distortion/gravitational lensing renders around the event horizon.
+	enableGravitationalLensing = true
+	#Whether chromatic dispersion and optical fringe render on high-energy beam impacts and screen borders.
+	enableChromaticAberration = true
+
+#Audio Accessibility & Dynamics
+[audio_accessibility]
+	#Whether high-frequency ear ringing (tinnitus sound effect) plays after massive proximity detonations.
+	enableTinnitusSound = true
+	#Volume scaling multiplier specifically for the tinnitus ear ringing sound effect.
+	#Range: 0.0 ~ 2.0
+	tinnitusVolumeMultiplier = 1.0
+	#Master volume scaling multiplier for all custom cinematic spells and boss sounds.
+	#Range: 0.0 ~ 2.0
+	cinematicMasterAudioVolume = 1.0
+

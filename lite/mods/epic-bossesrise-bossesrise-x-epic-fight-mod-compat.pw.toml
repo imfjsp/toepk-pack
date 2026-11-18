@@ -1,0 +1,12 @@
+name = "Epic Bosses'Rise: Bosses'Rise x Epic Fight Mod Compat"
+filename = "bossesrise_epicfight-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f53a3d8a5d37d017c2e0cf3ff749cbd69dafd5e1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9130693
+project-id = 1736096

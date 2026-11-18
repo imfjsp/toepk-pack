@@ -1,0 +1,13 @@
+
+[visuals]
+	#Subtle shockwave camera motion. Disable for motion sensitivity.
+	cameraShake = true
+	#Range: 0.0 ~ 1.5
+	shakeStrength = 0.75
+	#Emissive VFX brightness. Does not change gameplay or hitboxes.
+	#Range: 0.2 ~ 1.5
+	brightness = 0.85
+	#Ring segments. Lower detail changes tessellation, not the effect size.
+	#Range: 32 ~ 128
+	meshSegments = 80
+

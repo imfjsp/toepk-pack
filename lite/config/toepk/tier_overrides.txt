@@ -1,0 +1,4 @@
+# Fuerza el tier de objetos concretos (1-7, 0 = sin tier). Una regla por línea.
+# Ejemplos:
+#   minecraft:iron_sword=2
+#   regex:.*:.*_katana=3

@@ -1,0 +1,4 @@
+#Replace Bosses'Rise's pirates (crossbow_pirate, pirate_captain, pirate_rook) and soul skeletons (soul_skeleton, soul_knight_wither_skeleton) with the Epic Fight versions of this mod as soon as they spawn.
+#The UUID, owner and position are kept, so the Kraken spawner still tracks the pirates.
+replaceOriginals = true
+

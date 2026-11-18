@@ -1,0 +1,12 @@
+name = "Angel's Weather"
+filename = "Angel's Weather 1.9.3c.zip"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "24591e46380c88a1e04848047cb2468268094cde42940173ae3c78218d5e249a84c7700346f2d9707bf0b4d9252bf88a9b10bf4e8be53a7869758700f6f87c85"
+url = "https://cdn.modrinth.com/data/pQrAkcwB/versions/E7IaVaEf/Angel%27s Weather 1.9.3c.zip"
+
+[update.modrinth]
+mod-id = "pQrAkcwB"
+version = "E7IaVaEf"

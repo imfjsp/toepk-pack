@@ -1,0 +1,24 @@
+// T'O EPK: estructuras algo mas espaciadas y sin compartir semilla (menos solapes, sin perder variedad)
+{
+  "spreadFactor": 1.25,
+  "idBasedSalt": true,
+  "customSpreadFactors": [
+    { "structure": "minecraft:village_plains", "factor": 1.0 },
+    { "structure": "minecraft:village_desert", "factor": 1.0 },
+    { "structure": "minecraft:village_savanna", "factor": 1.0 },
+    { "structure": "minecraft:village_snowy", "factor": 1.0 },
+    { "structure": "minecraft:village_taiga", "factor": 1.0 },
+    { "structure": "minecraft:mansion", "factor": 1.4 },
+    { "structure": "minecraft:pillager_outpost", "factor": 1.6 },
+    { "structure": "minecraft:ruined_portal", "factor": 2.0 },
+    { "structure": "minecraft:shipwreck", "factor": 1.6 },
+    { "structure": "minecraft:ocean_ruin_cold", "factor": 1.6 },
+    { "structure": "minecraft:ocean_ruin_warm", "factor": 1.6 },
+    { "structure": "minecraft:buried_treasure", "factor": 1.2 },
+    { "structure": "minecraft:mineshaft", "factor": 1.2 },
+    { "structure": "minecraft:igloo", "factor": 1.5 },
+    { "structure": "minecraft:swamp_hut", "factor": 1.5 },
+    { "structure": "minecraft:desert_pyramid", "factor": 1.3 },
+    { "structure": "minecraft:jungle_pyramid", "factor": 1.3 }
+  ]
+}

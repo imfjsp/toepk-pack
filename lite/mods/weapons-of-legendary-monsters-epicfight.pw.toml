@@ -1,0 +1,12 @@
+name = "Weapons of Legendary Monsters (EpicFight/WeaponsOfMiracles + Legendary Monsters)"
+filename = "WOLegendaryMonsters-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d36c17d8475134014b425f6cb6c2959d86d9325"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 7656913
+project-id = 1169738

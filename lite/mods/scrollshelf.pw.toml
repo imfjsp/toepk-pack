@@ -1,0 +1,12 @@
+name = "ScrollShelf - Iron's Spells 'n Spellbooks Addon"
+filename = "scrollshelf-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcbff37b290eff4f8f2d4cdfd27070f3e9286caf"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8978651
+project-id = 1695523

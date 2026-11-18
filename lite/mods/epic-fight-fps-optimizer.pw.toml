@@ -1,0 +1,12 @@
+name = "Epic Fight FPS Optimizer"
+filename = "EpicFight-FPS-Optimizer-1.20.1-v1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1273d5137159d7008c1cc9fc2fbf6b0af20d3b83"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9188552
+project-id = 1619890

@@ -1,0 +1,12 @@
+name = "Yazz's Dungeons: The Sequel"
+filename = "Yazz's Dungeons The Sequel - 1.20.1 - 1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2a12ab0985e8cd77728eb83eaaf5ee2a77137f0"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8626439
+project-id = 1623162

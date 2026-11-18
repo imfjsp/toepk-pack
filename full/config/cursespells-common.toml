@@ -1,0 +1,16 @@
+
+#Block breaking per spell. true = the spell breaks blocks (default), false = it never does.
+[block_breaking]
+	#Blade of Judgment: the swords smash wood, leaves, chorus and glass in their path.
+	bladeOfJudgment = true
+	#Skyfall: the meteors smash wood, leaves, chorus and glass in their path.
+	skyfall = true
+	#THE SKY AND COSMOS ARE ONE: the meteors' path and TNT-like blasts, and the eye's crater and its blue fire.
+	theSkyAndCosmosAreOne = true
+
+#Combat.
+[combat]
+	#true = curse spells ignore armour, enchantments and resistance effects (default).
+	#false = they are reduced by them like any other school's spells.
+	curseArmorPiercing = true
+

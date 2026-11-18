@@ -1,0 +1,26 @@
+
+[skill_slots]
+	#Maximum extra passive skill slots after re-entering the world, not including Epic Fight's built-in passive slots.
+	#Range: 0 ~ 61
+	max_extra_passive_slots = 8
+	#Maximum extra mover skill slots after re-entering the world, not including Epic Fight's built-in mover slot.
+	#Range: 0 ~ 63
+	max_extra_mover_slots = 8
+	#Maximum extra identity skill slots after re-entering the world, not including Epic Fight's built-in identity slot.
+	#Range: 0 ~ 63
+	max_extra_identity_slots = 8
+	#Extra passive skill slots after the next game restart, not including Epic Fight's built-in passive slots.
+	#Range: 0 ~ 61
+	extra_passive_slots = 0
+	#Extra mover skill slots after the next game restart, not including Epic Fight's built-in mover slot.
+	#Range: 0 ~ 63
+	extra_mover_slots = 0
+	#Extra identity skill slots after the next game restart, not including Epic Fight's built-in identity slot.
+	#Range: 0 ~ 63
+	extra_identity_slots = 0
+
+[mutual_exclusion]
+	#Comma-separated skill ids. Only one skill in each group can be equipped at the same time.
+	#Example: "epicfight:roll,epicfight:step"
+	mutual_exclusion_groups = []
+

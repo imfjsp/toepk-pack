@@ -1,0 +1,161 @@
+
+#Astral Singularity / Kerr Rotating Black Hole Settings
+[gargantua]
+	#Gravitational attraction pull radius in blocks.
+	#Range: 10.0 ~ 300.0
+	pullRadius = 100.0
+	#Base gravitational pull acceleration strength applied to entities.
+	#Range: 0.01 ~ 2.0
+	pullAcceleration = 0.12
+	#Tidal disruption damage dealt to living entities inside event horizon (fraction of Max HP per 0.4s).
+	#Range: 0.01 ~ 1.0
+	tidalDamagePercent = 0.08
+	#Base damage dealt by the final Supernova detonation at tick 1100 (55.0s).
+	#Range: 10.0 ~ 10000.0
+	blastDamage = 800.0
+	#Explosion blast radius in blocks for the final Supernova detonation.
+	#Range: 5.0 ~ 200.0
+	blastRadius = 32.0
+	#Legacy reconstruction toggle. (Note: Block restoration is permanently deactivated for server TPS stability).
+	autoReconstructBlocks = false
+	#Whether Gargantua should physically tear surface blocks into orbiting accretion disk debris.
+	tearBlocks = true
+	#Maximum surface blocks permitted to be torn into debris over the 60s lifetime to protect server TPS.
+	#Range: 0 ~ 1000
+	maxTornDebris = 180
+	#Whether Gargantua respects the vanilla 'mobGriefing' gamerule.
+	respectMobGriefing = true
+
+#Frieren Human Flight Magic System
+[flight_system]
+	#Base mana consumed per second at Flight Spell Level 1 while hovering or cruising.
+	#Range: 5.0 ~ 200.0
+	baseManaCostPerSecond = 50.0
+	#Amount of base mana saved per spell level (e.g. Level 5 consumes 40.0 mana/sec).
+	#Range: 0.0 ~ 10.0
+	manaReductionPerLevel = 2.5
+	#When true, mana consumption increases exponentially when flying at high speeds or high altitudes.
+	enableSpeedAltitudeScaling = true
+	#Exponential scaling curve for high-speed cruising beyond 0.10 blocks/tick.
+	#Range: 1.0 ~ 3.0
+	speedMultiplierExponent = 1.8
+	#Hard cap on the velocity mana multiplier to prevent overflow during physics glitches.
+	#Range: 1.0 ~ 20.0
+	maxSpeedMultiplier = 8.0
+	#Exponential scaling curve for flying high above the ground surface (>3 blocks).
+	#Range: 1.0 ~ 3.0
+	altitudeMultiplierExponent = 1.7
+	#Hard cap on altitude mana multiplier when flying high in the sky.
+	#Range: 1.0 ~ 30.0
+	maxAltitudeMultiplier = 15.0
+	#Emergency Slow Falling duration in ticks upon mana depletion (70 ticks = 3.5s) to prevent falling deaths.
+	#Range: 0 ~ 200
+	emergencyBufferTicks = 70
+	#Automatically engages flight mode when jumping or falling off a ledge while under the Flight effect.
+	autoEngageAirborne = true
+	#Displays real-time flight telemetry (Mana/s, Altitude, Speed factor) on the action bar.
+	enableTelemetryHUD = true
+
+#Zoltraak Piercing Beams & Spells
+[spells_and_beams]
+	#Maximum piercing beam length in blocks for standard Zoltraak and Corrupted Zoltraak.
+	#Range: 16.0 ~ 256.0
+	beamStandardRange = 128.0
+	#Maximum beam length in blocks for charged Great Zoltraak.
+	#Range: 32.0 ~ 512.0
+	beamLargeRange = 192.0
+	#Global damage multiplier applied to all continuous Zoltraak beams.
+	#Range: 0.1 ~ 10.0
+	beamDamageMultiplier = 1.0
+	#If true, beam impact disables the target's shield blocking.
+	disableShieldOnHit = true
+	#Knockback impulse applied to targets caught in the beam shockwave.
+	#Range: 0.0 ~ 5.0
+	beamKnockbackFactor = 1.5
+	#Wither debuff duration in ticks (120 ticks = 6.0s) applied by Corrupted/Black Zoltraak.
+	#Range: 0 ~ 600
+	corruptedWitherDuration = 120
+	#Prevents beams from damaging team members, party members, or tamed pets of the caster.
+	respectFriendlyFire = true
+	#If true and mobGriefing is enabled, Zoltraak beams physically drill/blast a cylindrical hole through blocks along their trajectory.
+	beamDrillBlocks = true
+	#Base radius in blocks of the borehole drilled by standard Zoltraak (Great Zoltraak scales by 2x).
+	#Range: 0.5 ~ 4.0
+	beamDrillRadius = 1.25
+
+#Fern's Grand Phalanx Barrage (24-Circle Matrix)
+[barrage_matrix]
+	#Aerodynamic steering rate toward target (0.0 = straight unguided lance, 1.0 = instant tracking).
+	#Range: 0.0 ~ 1.0
+	barrageHomingStrength = 0.34
+	#Flight velocity of individual barrage light lances in blocks/tick.
+	#Range: 0.5 ~ 5.0
+	barrageProjectileSpeed = 1.75
+	#Maximum projectile lifetime before despawning (60 ticks = 3.0s).
+	#Range: 20 ~ 200
+	barrageMaxLifetimeTicks = 60
+	#Interval between barrage volleys in ticks (10 ticks = 0.5s = 2 volleys/sec).
+	#Range: 4 ~ 30
+	barrageFireInterval = 10
+	#Damage scaling factor for barrage projectiles.
+	#Range: 0.1 ~ 5.0
+	barrageDamageMultiplier = 1.0
+	#Area-of-effect impact splash radius in blocks.
+	#Range: 0.0 ~ 4.0
+	barrageBlastRadius = 1.2
+
+#Defensive Magic (Directional Aegis & Geodesic Dome)
+[defense_barrier]
+	#Durability multiplier for barrier shield HP (both Directional Aegis and Geodesic Dome).
+	#Range: 0.1 ~ 10.0
+	barrierCapacityMultiplier = 1.0
+	#Base barrier lifetime in ticks (300 ticks = 15.0s) before naturally dissipating.
+	#Range: 60 ~ 1200
+	barrierDurationTicks = 300
+	#When true, physically deflects mundane projectile weapons (arrows, tridents).
+	barrierDeflectArrows = true
+	#When true, absorbs and neutralizes incoming hostile magical projectiles.
+	barrierDeflectMagicProjectiles = true
+
+#The Elder Sage of Corruption: Qual Boss Encounter
+[qual_boss]
+	#Qual's baseline max health for solo encounters.
+	#Range: 200.0 ~ 10000.0
+	qualBaseHealth = 1500.0
+	#Additional health dynamically granted per nearby player in multiplayer boss fights.
+	#Range: 0.0 ~ 2000.0
+	qualHealthPerExtraPlayer = 200.0
+	#Base armor value for Qual.
+	#Range: 0.0 ~ 100.0
+	qualArmor = 30.0
+	#Base armor toughness for Qual.
+	#Range: 0.0 ~ 50.0
+	qualArmorToughness = 10.0
+	#Minimum recovery window (200 ticks = 10.0s) after Qual executes his 4s Corrupted Barrage.
+	#Range: 60 ~ 400
+	qualRecoveryWindowMinTicks = 200
+	#Maximum recovery window (240 ticks = 12.0s) during which players have a melee opening.
+	#Range: 80 ~ 600
+	qualRecoveryWindowMaxTicks = 240
+	#Maximum distance from players before Qual resets and re-seals into the sealing stone.
+	#Range: 32.0 ~ 256.0
+	qualDespawnDistance = 96.0
+
+#Magical Artifacts & Relics
+[artifacts_and_relics]
+	#Cast time reduction (+15%) granted by Frieren's Staff.
+	#Range: 0.0 ~ 1.0
+	staffCastSpeedBonus = 0.15
+	#Flat mana regeneration bonus (mana/s) granted by Frieren's Staff.
+	#Range: 0.0 ~ 50.0
+	staffManaRegenBonus = 5.0
+	#Time dilation spherical bubble radius for the Chronos Dilatation Watch.
+	#Range: 4.0 ~ 64.0
+	chronosWatchRadius = 16.0
+	#Time dilation duration in ticks (200 ticks = 10.0s).
+	#Range: 20 ~ 400
+	chronosWatchDurationTicks = 200
+	#Cooldown in seconds before the Chronos Dilatation Watch can be reactivated.
+	#Range: 10 ~ 600
+	chronosWatchCooldownSeconds = 60
+

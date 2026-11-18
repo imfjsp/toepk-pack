@@ -1,0 +1,12 @@
+name = "Epic Spells 'n Wizards! | Epic Fight x Iron's Spells 'n Spellbooks"
+filename = "epicspellsnwizards_epicfight_ironsspells_compat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f51f0c0c5970f0e59e234f69d0ee92d5edbdeb0"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9049843
+project-id = 1715710

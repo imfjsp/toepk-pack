@@ -1,0 +1,12 @@
+name = "EpicFight-Awaken"
+filename = "epicfight_awaken-1.2.8-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f55c7124681fd86baebd9d1948b199aca95f3c88"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9026711
+project-id = 1423319

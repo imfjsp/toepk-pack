@@ -1,0 +1,12 @@
+name = "SimplySwords Epicfied Core"
+filename = "SEpicfied-Core-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80f5dcb82a357a39b59bca96c5b0324287c7543c"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8859706
+project-id = 1563039

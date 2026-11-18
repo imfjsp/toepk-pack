@@ -1,0 +1,12 @@
+name = "Fantasy Weapons (Medieval Series)"
+filename = "fantasy-weapons-1.0-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "a95cb9c8d0f74725a94b89c8b4a58b859a38a754ff2185bc53c482693d0c3ed75b30e914d26acb8cca49dc3f83e44139c3e4e1d57c098fd7c2fe94003d1ece54"
+url = "https://cdn.modrinth.com/data/rsBLWxD0/versions/dTou3aLk/fantasy-weapons-1.0-1.20.1-forge.jar"
+
+[update.modrinth]
+mod-id = "rsBLWxD0"
+version = "dTou3aLk"

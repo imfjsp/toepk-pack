@@ -1,0 +1,12 @@
+name = "Astemir Re Lib"
+filename = "astemirlib_re-1.20.1-forge-1.2.985-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "cba125673e021c2b39b0c3ef230eeafef44c2f96f573956c8cc745a7801b03db7343497e4ec3b012bae9e65da02383d889c61e3ec2139eedf2eafc362c98f8fb"
+url = "https://cdn.modrinth.com/data/xMZpvyiF/versions/Zkd4tIbV/astemirlib_re-1.20.1-forge-1.2.985-SNAPSHOT.jar"
+
+[update.modrinth]
+mod-id = "xMZpvyiF"
+version = "Zkd4tIbV"

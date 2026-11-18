@@ -1,0 +1,12 @@
+name = "Ixeris"
+filename = "Ixeris-4.6.7+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "2605f31fb5055c5af1071e04915d88d8003327f5db0cd07e09f10e42f1df4ed92b263fcb74244a0606a6fb9dc4694ca9dfd4cbdf93597e99ae67312df65eb9f4"
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/SLazyBFB/Ixeris-4.6.7%2B1.20.1-forge.jar"
+
+[update.modrinth]
+mod-id = "p8RJPJIC"
+version = "SLazyBFB"

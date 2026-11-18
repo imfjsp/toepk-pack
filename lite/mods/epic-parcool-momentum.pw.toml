@@ -1,0 +1,12 @@
+name = "Epic ParCool: Momentum（4.0 Final Update-Sandevistan is here!）"
+filename = "epic_parcool_momentum-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8ca7a8976197c975b6f6e0bf759d956556627cf"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9168954
+project-id = 1549844

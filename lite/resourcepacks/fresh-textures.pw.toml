@@ -1,0 +1,12 @@
+name = "Fresh Textures"
+filename = "Fresh Textures v2.0.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "571d7205d71c85184472d3fad48d0c5bfab4d51062c2c86f6f3d84cf4ddcba60efca692b7a507567fcd245e5ae860430378d6cf86aad809c69a57b2813d04f9a"
+url = "https://cdn.modrinth.com/data/p6DhaYT0/versions/w7BtJ3hF/Fresh Textures v2.0.1.1.zip"
+
+[update.modrinth]
+mod-id = "p6DhaYT0"
+version = "w7BtJ3hF"

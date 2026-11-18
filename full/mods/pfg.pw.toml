@@ -1,0 +1,12 @@
+name = "PFG "
+filename = "pfg-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd62223a58a62793454d59ea642ff961a8268084"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8722501
+project-id = 1576669

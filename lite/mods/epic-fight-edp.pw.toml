@@ -1,0 +1,12 @@
+name = "Epic Fight - EDP (Extended Datapacks)"
+filename = "EF-ExtendedDatapacks-2.5.6-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e07e1f42785bfd9ba9a3181f2da67af963033fe"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9380568
+project-id = 1309609

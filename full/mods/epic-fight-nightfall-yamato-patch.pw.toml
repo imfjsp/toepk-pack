@@ -1,0 +1,12 @@
+name = "Epic Fight Nightfall- Yamato Patch"
+filename = "YamatoPatch-1.2.3-serverfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e04c9f8d0454e594fa2c15c5436dd2359f26245f"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 7790348
+project-id = 1478735

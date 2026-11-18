@@ -1,0 +1,12 @@
+name = "Archie's Dinosaurs"
+filename = "ec_ad-forge-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "ecae0347fb29784df7a40d5d15128cf5ad6c2852bd93c514b1d72c951831c44f5fdc132ed1de6f3663db9ef36227a3b57166e3d9a1f7aa5d1086f7029d0b0695"
+url = "https://cdn.modrinth.com/data/RQU6eQq9/versions/OZAkf2Ol/ec_ad-forge-1.20.1-1.0.5.jar"
+
+[update.modrinth]
+mod-id = "RQU6eQq9"
+version = "OZAkf2Ol"

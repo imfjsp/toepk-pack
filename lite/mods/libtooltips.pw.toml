@@ -1,0 +1,12 @@
+name = "LibTooltips"
+filename = "libtooltips-2.3.2-FORGE-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "f8733f357909173c2bd0d024415f439ccc5bd515a52ca6a71647c32c704d1c7223b86bb5621b92934b2540f08fc1444e756c3259c8b7f60e3b1787277fa0edfb"
+url = "https://cdn.modrinth.com/data/L95W3cqk/versions/D6YZzdt5/libtooltips-2.3.2-FORGE-1.20.1.jar"
+
+[update.modrinth]
+mod-id = "L95W3cqk"
+version = "D6YZzdt5"

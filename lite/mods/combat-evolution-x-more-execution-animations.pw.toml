@@ -1,0 +1,12 @@
+name = "Combat Evolution: More Execution Animations"
+filename = "CombatEvolution-MoreExecutionAnimations-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1033a2c23625b5561e71966cda9f7aeb26fc434b"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9349877
+project-id = 1521545

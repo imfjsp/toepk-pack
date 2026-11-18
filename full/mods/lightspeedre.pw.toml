@@ -1,0 +1,12 @@
+name = "LightSpeedRe"
+filename = "lightspeed-1.20.1-2.0.5+hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "9a8165ea479c09a48b7395c2b8e80ac26a84a04410de4e29d002aebc446b59d7751ee9260058552086d88230427f98d78d80db6cd2fef78f4ff2a810dc01d3be"
+url = "https://cdn.modrinth.com/data/niZHUKxZ/versions/ncR5kUCv/lightspeed-1.20.1-2.0.5%2Bhotfix.jar"
+
+[update.modrinth]
+mod-id = "niZHUKxZ"
+version = "ncR5kUCv"

@@ -1,0 +1,12 @@
+name = "Small Icons"
+filename = "Small Icons v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "74649a7f0b7aea8fab3bd033db32bf0deae7f67fe59834e197ee237d33307551ecc1be291331c41bc1dc4791b208ad1b237c3634ef6bd8a25fee390ecc507c2d"
+url = "https://cdn.modrinth.com/data/m5E71RR3/versions/e8KX9HHZ/Small Icons v.1.0.zip"
+
+[update.modrinth]
+mod-id = "m5E71RR3"
+version = "e8KX9HHZ"

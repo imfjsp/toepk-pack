@@ -1,9 +1,0 @@
-hash-format = "sha256"
-
-[[files]]
-file = "mods/toepk-0.46.1.jar"
-hash = "35780ed1b1364e2508e21af1a5c64087d899e7045bab78ac33e6cd0eced5a70e"
-
-[[files]]
-file = "mods/toepktweaks-1.0.4.jar"
-hash = "b46f541b4c8aee9e309203132da0adeb1ae3ba6f56d6d9c457058cbcf293345d"

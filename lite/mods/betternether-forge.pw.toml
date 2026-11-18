@@ -1,0 +1,12 @@
+name = "BetterNether: Before Dawn"
+filename = "BetterNether-20.0.13-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "cbf207fac1a14fb2cd5c4b93866183448980b2483a46693d37791a4141f2f4bc3bb3550b5a95cb255f13d0cac15d1b604a7842e6eeb922a0858ed8e8d082e308"
+url = "https://cdn.modrinth.com/data/3mHSCaYw/versions/JeJLrduh/BetterNether-20.0.13-forge.jar"
+
+[update.modrinth]
+mod-id = "3mHSCaYw"
+version = "JeJLrduh"

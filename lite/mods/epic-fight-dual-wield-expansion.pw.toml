@@ -1,0 +1,12 @@
+name = "Epic Fight | Dual Wield Expansion"
+filename = "efdualwield-expansion-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "857b10f643fa7c04730b920dc5a32a9f6d07ffee"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9055642
+project-id = 1718282

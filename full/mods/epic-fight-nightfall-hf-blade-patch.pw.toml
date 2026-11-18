@@ -1,0 +1,12 @@
+name = "Epic Fight Nightfall- Hf Blade Patch"
+filename = "hfbladepatch-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88cf95a0a21063b95039a722fdd8e669d9082e8a"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8333145
+project-id = 1590705

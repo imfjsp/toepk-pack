@@ -1,0 +1,12 @@
+name = "Balanced Epic Fight"
+filename = "bef-20.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "837a4e7b711e9449c23f770ce212a5c91c3538774fd80f1febf50b1b8628f218c876587825019d070dfc96fda18ae59f5d7c4ea44bb90c1641931e7e9587bdb1"
+url = "https://cdn.modrinth.com/data/wAvth8VI/versions/J3JYcqSP/bef-20.0.1.jar"
+
+[update.modrinth]
+mod-id = "wAvth8VI"
+version = "J3JYcqSP"

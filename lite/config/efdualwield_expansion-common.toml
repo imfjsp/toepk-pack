@@ -1,0 +1,11 @@
+
+[mobs]
+	#Zombies, skeletons and piglins (and their variants) can spawn dual wielding
+	enabled = true
+	#Chance (0-1) for an eligible mob to spawn with a dual wield style
+	#Range: 0.0 ~ 1.0
+	spawnChance = 0.15
+	#Drop chance (0-1) of each of the two weapons on death (vanilla equipment default is 0.085)
+	#Range: 0.0 ~ 1.0
+	dropChance = 0.085
+

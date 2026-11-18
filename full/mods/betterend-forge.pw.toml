@@ -1,0 +1,12 @@
+name = "BetterEnd: Before Dawn"
+filename = "BetterEnd-20.0.13-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b5a24146f971fb3f30fff92572aaa8c0943ad0958a7fff698fa949582c5256fdb8a3486e7b109bdd1da09722cddaee2a377d0b2a486cda1602f1a181e2cce471"
+url = "https://cdn.modrinth.com/data/aSIFLYIc/versions/63KvGmOf/BetterEnd-20.0.13-forge.jar"
+
+[update.modrinth]
+mod-id = "aSIFLYIc"
+version = "63KvGmOf"

@@ -1,0 +1,10 @@
+{
+  "armorDefense": 100,
+  "armorToughness": 100,
+  "armorDurability": 100,
+  "toolAttackDamage": 100,
+  "toolMiningSpeed": 100,
+  "toolDurability": 100,
+  "swordAttackDamage": 100,
+  "swordDurability": 100
+}

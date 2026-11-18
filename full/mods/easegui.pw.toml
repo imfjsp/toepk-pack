@@ -1,0 +1,12 @@
+name = "EaseGUI"
+filename = "easegui-forge-0.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b03f2aa7b158d50344d409ac135fb1f0f7e83bc622e308403dc3b1d03e2603e0c2fd15b9af979d307bfc4f9fa94982e82560eff79a6656cbbf349e2948c6b9f2"
+url = "https://cdn.modrinth.com/data/zS8uflwP/versions/jxfVezHx/easegui-forge-0.3.2%2B1.20.1.jar"
+
+[update.modrinth]
+mod-id = "zS8uflwP"
+version = "jxfVezHx"
