@@ -2008,6 +2008,11 @@ file = "mods/expanded_ecosphere-3.2.4-forge.jar"
 hash = "5ae85c60e000c738e9e74a0f0ef061a03033856d20bf1c9f6e218b1f7d469c6d"
 
 [[files]]
+file = "mods/fancy-trail.pw.toml"
+hash = "0fc0db250319ffbfa48fa5e0b49a3e63d4e2ceb264b5f06ad8b82116fd563e86"
+metafile = true
+
+[[files]]
 file = "mods/fantasy_armor.pw.toml"
 hash = "1b06b521d2972a374d7db80d6541885fc4acac1d93e860973ac90e66f27e5a3b"
 metafile = true
@@ -2454,6 +2459,11 @@ metafile = true
 [[files]]
 file = "mods/slm-epic-fight.pw.toml"
 hash = "ab4e87c459deae18d4267d185f0bd789ba746c825e7aef5acc36f9a9c20e3247"
+metafile = true
+
+[[files]]
+file = "mods/slm-shader.pw.toml"
+hash = "2beb5e5dbbe5925245198bf71da8ebfb913d6f8c92cd58072e8a9d401b60e9d7"
 metafile = true
 
 [[files]]
