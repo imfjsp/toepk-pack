@@ -1,0 +1,12 @@
+name = "Epic Fight | Simply Swords EpicFied 2"
+filename = "Simplyswords-Epicfied-pre3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3fcea879284fadd86e8d99a1d69aef30061c6b5"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8860191
+project-id = 1191222

@@ -1,0 +1,61 @@
+#Master switch for frame generation.
+enabled = false
+#Perceived frame rate multiplier: 2 = 2x, 3 = 3x, 4 = 4x, 5 = 5x, 6 = 6x.
+#Higher factors need more GPU time and a render FPS well below your monitor refresh rate.
+#Range: 2 ~ 6
+interpolationFactor = 4
+#Number of pyramid levels for the multi-scale optical flow (1-5).
+#Each extra level halves the resolution and lets the flow capture larger motions; 1 disables the pyramid.
+#Range: 1 ~ 5
+flowLevels = 3
+#Iterative Lucas-Kanade refinement iterations per pyramid level (1-8).
+#Higher values give a more accurate flow but cost more GPU time.
+#Keep this low: the whole pipeline must finish in less than one display refresh.
+#Range: 1 ~ 8
+flowIterations = 2
+#Radius (in texels) of the optical flow search window (1-4).
+#A larger window handles faster motion but is much slower (cost grows quadratically).
+#Range: 1 ~ 4
+flowWindowRadius = 1
+#Maximum motion (in full-resolution texels) the optical flow will estimate.
+#Range: 8 ~ 256
+flowMaxMotion = 64
+#Pause frame generation while a shader pack (Iris/Oculus) is active.
+#PFG works with most shader packs because the final composite is written to the main framebuffer;
+#enable this only if you see artifacts or crashes with a specific pack.
+disableWithShaders = false
+#Unlocked FPS mode: bypasses Minecraft's internal frame cap while frame generation is active.
+#Presents are ALWAYS synced to the display refresh (one interpolated frame per refresh — required for a stable image),
+#so this option only removes the game's own frame limiter, making the render rate track the refresh budget exactly.
+#The game's frame limit is restored when frame generation is turned off.
+vsyncLocked = true
+#Anti-latency: when the game cannot render fast enough for the chosen factor
+#(real fps below refresh / factor), temporarily lower the interpolation factor
+#so the base frame rate stays stable instead of collapsing; restore it when
+#the render rate fits again. Fewer interpolated frames also mean less added latency.
+adaptiveFactor = true
+#Fully uncapped mode: presents are NOT synced to the display refresh.
+#The game renders as fast as it can (no V-Sync lock, no software pacing, no frame cap)
+#and every interpolated frame is presented as soon as it is drawn; anti-latency and
+#adaptive quality are disabled. On a fast GPU the display samples a dense stream of
+#frames, so motion stays smooth and the F3 counter shows the full presented rate
+#(real fps x factor). On slower setups the frames bunch and the image can flicker -
+#that is why the normal modes pace one frame per refresh. Default off.
+uncappedFps = false
+#Show a small status text in the top-right corner of the screen while frame generation is active.
+showHudStatus = true
+#Show a small on-screen FPS counter while frame generation is active:
+#the DISPLAYED (presented) frame rate — real fps x factor, the number the
+#monitor actually shows — plus the real render rate in parentheses.
+showFpsCounter = false
+#Spike Anti Lag System: just-in-time frame scheduling that reduces input latency.
+#The frame-generation pipeline is delayed until just before the display refresh,
+#capturing the most recent mouse and keyboard inputs — the same principle as NVIDIA Reflex.
+#When disabled, frames are processed as soon as the game renders them, building up a small queue.
+spikeLag = true
+#Spike Lag Boost: keeps the GPU clock speeds consistently high between frames
+#to prevent micro-stutters during sudden scene changes (combat, chunk loads, explosions).
+#Submits a tiny background workload to the GPU after each burst — like the NVIDIA Reflex 'On + Boost' setting.
+#Only active when Spike Lag is enabled. Slightly increases idle power draw.
+spikeLagBoost = false
+

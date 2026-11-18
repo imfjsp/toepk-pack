@@ -1,0 +1,18 @@
+
+#Trail of a tachi held in the off hand (Tool_L joint space). x = side, y = up, z = forward (negative = towards the blade tip).
+[offhand_tachi_trail]
+	#true = compute the trail from the tachi item model at runtime (recommended). false = use the manual values below.
+	auto = true
+	#Range: -4.0 ~ 4.0
+	start_x = 0.0
+	#Range: -4.0 ~ 4.0
+	start_y = -0.03
+	#Range: -4.0 ~ 4.0
+	start_z = -0.3
+	#Range: -4.0 ~ 4.0
+	end_x = 0.3
+	#Range: -4.0 ~ 4.0
+	end_y = 0.19
+	#Range: -4.0 ~ 4.0
+	end_z = -2.3
+

@@ -1,0 +1,12 @@
+name = "Iron's Spells 'n Spellbooks: Elden Ring"
+filename = "iss_elden_ring-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dee8814cf3290aa48da48168537dc6e668901f93"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9429686
+project-id = 1690865

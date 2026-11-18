@@ -1,0 +1,16 @@
+{
+  "armorsVanillaMode": false,
+  "armorBlessings": true,
+  "armorTotems": true,
+  "armorBoosters": true,
+  "toolsVanillaMode": false,
+  "toolGems": true,
+  "toolPassives": true,
+  "toolFishingPassives": true,
+  "toolInfusionTable": true,
+  "toolTreasureLoot": true,
+  "swordsVanillaMode": false,
+  "swordHearts": true,
+  "swordForge": true,
+  "swordPassives": true
+}

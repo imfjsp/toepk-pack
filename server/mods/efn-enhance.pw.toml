@@ -1,0 +1,12 @@
+name = "EFN-Enhance"
+filename = "Nightfall Enhance-1.1.6-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5976c3bba3083b1bd64688d60bfe63521094f52"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8710903
+project-id = 1469082

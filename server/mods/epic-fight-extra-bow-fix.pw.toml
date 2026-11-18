@@ -1,0 +1,12 @@
+name = "Epic Fight Extra Bow Fix"
+filename = "epicfight_extra_bow_restore-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e7bd60ef9eeab775fbcfc62b04fc33c5911b821"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 8200848
+project-id = 1565681

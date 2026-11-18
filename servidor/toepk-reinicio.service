@@ -1,0 +1,6 @@
+[Unit]
+Description=Reinicio diario de T'O EPK (aplica las actualizaciones del pack)
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -c '/opt/toepk/rcon.py "say Reinicio diario en 1 minuto para actualizar el pack" || true; sleep 60; systemctl restart toepk.service'

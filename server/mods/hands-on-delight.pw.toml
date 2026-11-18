@@ -1,0 +1,12 @@
+name = "Hands-On Delight"
+filename = "handson_delight-forge-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14e00836918e27a1c1686801ff4ae3995f011c51"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 9551305
+project-id = 1790221

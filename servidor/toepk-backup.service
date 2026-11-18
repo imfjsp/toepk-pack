@@ -1,0 +1,6 @@
+[Unit]
+Description=Copia del mundo de T'O EPK
+
+[Service]
+Type=oneshot
+ExecStart=/opt/toepk/backup.sh

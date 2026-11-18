@@ -1,0 +1,12 @@
+name = "Olympus!"
+filename = "olympusmythology-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "4ffbb8aa7cf53b84063520dc85cdc71fdd4676bb06d4c1b88d43e476f22b56755a8d9bc03d3750766fdd2df4cf88e814413b646fb63aa5bc4e632ade099092b9"
+url = "https://cdn.modrinth.com/data/27dey9Ta/versions/ffsnd9ya/olympusmythology-forge-1.20.1-1.1.0.jar"
+
+[update.modrinth]
+mod-id = "27dey9Ta"
+version = "ffsnd9ya"

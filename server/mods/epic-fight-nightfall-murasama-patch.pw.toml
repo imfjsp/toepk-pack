@@ -1,0 +1,12 @@
+name = "Epic Fight Nightfall- Murasama Patch"
+filename = "efnMurasamaPatch0.2-serverside-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffb43c4e3d4764f83c2a74676faa24740882dcb6"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 7790032
+project-id = 1477939

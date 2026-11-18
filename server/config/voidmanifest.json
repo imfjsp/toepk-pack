@@ -1,0 +1,14 @@
+{
+  "vfxQuality": "ULTRA",
+  "enableBlockDestruction": true,
+  "allowBlockSuction": true,
+  "maximumBlocksDestroyedPerCast": 7000,
+  "maximumFloatingBlocks": 120,
+  "protectTileEntities": true,
+  "respectMobGriefing": false,
+  "cameraShake": 0.65,
+  "maximumActiveVfx": 24,
+  "vfxRenderDistance": 420.0,
+  "allowBossPull": true,
+  "terrainDamageScale": 1.0
+}

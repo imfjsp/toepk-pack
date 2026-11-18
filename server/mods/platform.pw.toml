@@ -1,0 +1,12 @@
+name = "Platform"
+filename = "Platform-forge-1.20.1-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "b099c176b277d85ef2fd991ca3a741b7fe95482b579857c252e6995ce984055fca1608943c8f588aa3c82833e21eb49754cc1d52d0e35ef8c2e6cfd09a1cc7d8"
+url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/28ghzOb2/Platform-forge-1.20.1-1.4.2.jar"
+
+[update.modrinth]
+mod-id = "i6fiqm5y"
+version = "28ghzOb2"

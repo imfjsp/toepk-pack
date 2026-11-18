@@ -12,5 +12,9 @@ Direcciones de los packs (van en el comando previo al lanzamiento de la instanci
 
 - Full: `https://raw.githubusercontent.com/imfjsp/toepk-pack/main/full/pack.toml`
 - Lite: `https://raw.githubusercontent.com/imfjsp/toepk-pack/main/lite/pack.toml`
+- Servidor: `https://raw.githubusercontent.com/imfjsp/toepk-pack/main/server/pack.toml` (Lite sin las mods que solo
+  funcionan en el cliente). `servidor/` tiene los scripts de la máquina: `setup.sh` instala Java 17, Forge y el
+  servicio; `start.sh` actualiza el pack antes de cada arranque; hay copia del mundo cada 6 h y reinicio diario a las
+  06:00 (hora de Chile) para aplicar actualizaciones.
 
 Si no hay internet o GitHub no responde, Prism avisa y puedes jugar igual con la versión que ya tienes.

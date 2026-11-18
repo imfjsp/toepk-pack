@@ -1,0 +1,14 @@
+#Enable additional stamina drain for Epic Fight Nightfall arts skills.
+nightfallArtsStaminaEnabled = true
+#Extra stamina added to the normal Epic Fight stamina cost for Nightfall arts skills.
+#Final cost for Nightfall arts = base Epic Fight stamina + this extra value.
+#Range: 0.0 ~ 100.0
+nightfallArtsExtraStaminaCost = 6.0
+#Nightfall arts skill IDs.
+#Supports exact IDs and namespace wildcard entries like efn:*.
+nightfallArtsSkillIds = ["efn:mortal_blade", "efn:murasama_dodge", "efn:murasama_passive", "efn:murasama", "efn:zansetsu", "efn:murasama_parry", "efn:yamato"]
+#In-game editable skill IDs. Split entries with comma, semicolon, or newline.
+nightfallArtsSkillIdsEditable = ""
+#Enable debug logs for Nightfall arts stamina handling.
+debugLogStaminaEvents = false
+

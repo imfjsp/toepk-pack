@@ -1,0 +1,18 @@
+[Unit]
+Description=Servidor de Minecraft T'O EPK
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=minecraft
+WorkingDirectory=/opt/toepk
+ExecStart=/opt/toepk/start.sh
+ExecStop=/opt/toepk/rcon.py stop
+TimeoutStopSec=180
+Restart=on-failure
+RestartSec=20
+StandardOutput=append:/opt/toepk/consola.log
+StandardError=append:/opt/toepk/consola.log
+
+[Install]
+WantedBy=multi-user.target

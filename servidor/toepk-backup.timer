@@ -1,0 +1,9 @@
+[Unit]
+Description=Copia del mundo de T'O EPK cada 6 horas
+
+[Timer]
+OnCalendar=00/6:30
+Persistent=true
+
+[Install]
+WantedBy=timers.target

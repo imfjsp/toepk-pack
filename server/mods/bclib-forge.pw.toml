@@ -1,0 +1,12 @@
+name = "BCLib: Before Dawn"
+filename = "BCLib-20.0.16-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "e3f906e22181636a78afa3c0929aa9aff01191810a3254065b8ab2dd6f0c8ebb0dc3a730f4a96440e6deb157f50e2beda1fdb4b3b85e491ab754f35dd9cfcb14"
+url = "https://cdn.modrinth.com/data/obMZk452/versions/XALK8REZ/BCLib-20.0.16-forge.jar"
+
+[update.modrinth]
+mod-id = "obMZk452"
+version = "XALK8REZ"

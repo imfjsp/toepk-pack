@@ -1,0 +1,9 @@
+[Unit]
+Description=Reinicio diario de T'O EPK a las 06:00 (hora de Chile)
+
+[Timer]
+OnCalendar=*-*-* 06:00:00 America/Santiago
+Persistent=false
+
+[Install]
+WantedBy=timers.target
