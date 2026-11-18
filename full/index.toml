@@ -2191,11 +2191,6 @@ hash = "dafc3fc86f7bacc8a5bd2d5f80c16dde47d2f051afde6d08a7185f87b99a2baf"
 metafile = true
 
 [[files]]
-file = "mods/frieren-flight-irons-spells.pw.toml"
-hash = "73881f41141ad15ad2bc9351252420c313e8963ed4a216aabe8ca1bc92ea24fd"
-metafile = true
-
-[[files]]
 file = "mods/frieren-spells-zoltraak-singularity-irons-spells.pw.toml"
 hash = "1c269007d125cba31d64c1a70dd13a144942ef7d86d24ac31afa049a7cb65579"
 metafile = true
@@ -2825,6 +2820,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "b79004f7b4301ad7852f88a65de2f174555e21a275d5b30f9979ebf11e3432e6"
 metafile = true
+
+[[files]]
+file = "mods/zoltraak_cinematic-forge-1.20.1-1.0.5.jar"
+hash = "b9319db9492a829b1c072fc993a578bd67bfe227ced50237f43e142fb6160975"
 
 [[files]]
 file = "options.txt"

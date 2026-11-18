@@ -14,3 +14,9 @@ Direcciones de los packs (van en el comando previo al lanzamiento de la instanci
 - Lite: `https://raw.githubusercontent.com/imfjsp/toepk-pack/main/lite/pack.toml`
 - Servidor: `https://raw.githubusercontent.com/imfjsp/toepk-pack/main/server/pack.toml` (Lite sin las mods que solo
   funcionan en el cliente).
+
+## Mods de terceros incluidas como archivo
+
+Algunas mods van como archivo en este repositorio porque su fuente oficial no permite la descarga automática:
+
+- **Zoltraak: Cinematic Edition** (`zoltraak_cinematic-forge-1.20.1-1.0.5.jar`), de Aling7788565, con licencia **AGPL-3.0**. Proyecto y código: https://www.curseforge.com/minecraft/mc-mods/frieren-flight-irons-spells. Se distribuye sin modificar.
