@@ -445,8 +445,12 @@ file = "config/artifacts/common.json5"
 hash = "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1"
 
 [[files]]
+file = "config/astemirlib_re/client.json"
+hash = "491fde1946719183368b2543c9d9702d5c6bae100192b0c1c7aed36ac26253b1"
+
+[[files]]
 file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "43180cedbe0360f8ae9339e259186773933606d23e8df972dceac9a592979035"
+hash = "2b7f1124a7dd4399fdb62c28203fea6471fdfdb95f858530256769189195b878"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
@@ -705,6 +709,10 @@ file = "config/easymagic-server.toml"
 hash = "7dbf42819b121001c76e06c07994c363d316ce110f7b06dd032687f4099d5687"
 
 [[files]]
+file = "config/ec_ad/server_config.json"
+hash = "a0f79fba549eebaa8c28877eb536cbe63e396ec0abdfdef53c9fa2eb42efde34"
+
+[[files]]
 file = "config/echo_spellbooks-client.toml"
 hash = "7f5a021bab5bcca6a7b51f8f525028da4d13b6b320942a76fbf51bc6abfe7a60"
 
@@ -754,7 +762,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "3d8b57db8b30f56ee144691b3f8c5a31d6dfad08852fd85782ce432dde42e863"
+hash = "53d0565a9c45940ce553d863a9aaaedb7ab206f1409f6cd5f1b675bd965ff134"
 
 [[files]]
 file = "config/emi.css"
@@ -826,7 +834,7 @@ hash = "d26f38c0b743644dcc7191b54563abb3b73500b8e542bc32d71a5eea7904f7ca"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "81b6241f2c81bd97a03e5fc8869c8d9175773e0cdfb7270e2557a3bf75968426"
+hash = "bf76c472a47d13af290860dcfe1013b73888f22857a01e652d55e01a896b8ad8"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -926,7 +934,7 @@ hash = "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24"
 
 [[files]]
 file = "config/handson_delight.properties"
-hash = "e0958907902d4008bceb8f4f981e72b9ddc9973f0aaa8c076d4a45b00f918120"
+hash = "a8edc44092272dd74873ca0c1dac775d5cdee3f00d939419e0b962f4c3fef6a6"
 
 [[files]]
 file = "config/ice_and_fire_spellbooks.toml"
@@ -1358,7 +1366,7 @@ hash = "1b02632de5c49ad1d79518a886bd3f29305eecb831c283962a1c21091ceed001"
 
 [[files]]
 file = "config/toepk.properties"
-hash = "080942c63fc0b66451aaee4a479fe47551351079cc823888920b6478f0c1044f"
+hash = "7919566de6f25e1b098757e6af979f75ade4992b29eb644314b737a58d9352dd"
 preserve = true
 
 [[files]]
@@ -1367,15 +1375,15 @@ hash = "15a78e430954530a1aa8dfc9e8ffc54e09ea1687cfc095e26e21b84c52da3973"
 
 [[files]]
 file = "config/toepk/tiers.csv"
-hash = "847e906f9a60adb870c7a6dd91f980e4080600127e675d456926b2b08a62aec3"
+hash = "4202d1f7e031b0cd5027749a2e31ff8981a08fa49f03a6cb98dbeee6fc52db0f"
 
 [[files]]
 file = "config/toepk/traducciones/es_es.json"
-hash = "c1986febf8bc15eab31bb678e9ef0e9355263719bc1dde04ff7be38eb3841bdf"
+hash = "c2defbb10f3d54283dfe87d9b062ed0a9d8f6fe905cc5707404936f9746e4285"
 
 [[files]]
 file = "config/toepk/traducciones/es_es.origen.json"
-hash = "3d5f70e7f91ca6e4f2947b3e723f2c29ed6f8159df31939899c162f7f3118e40"
+hash = "be4b218303d81bf659fa0913effe077677ccceb47d23fcc02d8a0485808f5076"
 
 [[files]]
 file = "config/toepktweaks.properties"
@@ -1584,6 +1592,10 @@ hash = "9a38a5de7a2a733e5c061b3e8e657ae24b0c529779f2be8f4d05914c45022300"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
+
+[[files]]
+file = "mods/EFRetaliation-1.0.0-forge-1.20.1-servidor.jar"
+hash = "b4d2f8e529587f328b6f2fe6e265e184c3c8f1ecf265a706dee49fe2be61ad80"
 
 [[files]]
 file = "mods/WOC-Remastered-1.5.0-forge-1.20.1.jar"
@@ -2487,8 +2499,12 @@ hash = "0322f3682b3b7789baa121a26a96f4469963648fdcbe7f3c065752358f395fc1"
 metafile = true
 
 [[files]]
-file = "mods/toepk-0.46.1.jar"
-hash = "35780ed1b1364e2508e21af1a5c64087d899e7045bab78ac33e6cd0eced5a70e"
+file = "mods/toepk-0.47.0.jar"
+hash = "3b1359a5c0f8f00b566ec9383b8b881384f7ac8a56aefeda7011535fa81da67a"
+
+[[files]]
+file = "mods/toepk-servidor-1.2.0.jar"
+hash = "b9d2822d9bb6b8ef850ba07979ddaea2703ca9340b7835c9480d4a1dbe8ce504"
 
 [[files]]
 file = "mods/toepktweaks-1.0.4.jar"

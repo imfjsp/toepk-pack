@@ -168,7 +168,6 @@ tier,kind,item
 1,WEAPON,alexscaves:sharpened_candy_cane
 1,WEAPON,alexscaves:totem_of_possession
 1,WEAPON,alexsmobs:tendon_whip
-1,WEAPON,aquamirae:terrible_chakram
 1,WEAPON,block_factorys_bosses:undying_tentacle
 1,WEAPON,cataclysm:khopesh
 1,WEAPON,cdmoveset:s_golden_greatsword
@@ -219,6 +218,8 @@ tier,kind,item
 1,WEAPON,dungeons_and_combat:wooden_knife
 1,WEAPON,dungeons_and_combat:wooden_mace
 1,WEAPON,dungeons_and_combat:wooden_staff
+1,WEAPON,ec_ad:theri_claw_copper
+1,WEAPON,ec_ad:theri_claw_gold
 1,WEAPON,epicfight:bokken
 1,WEAPON,epicfight:glove
 1,WEAPON,epicfight:golden_dagger
@@ -368,6 +369,26 @@ tier,kind,item
 2,ARMOR,dungeons_and_combat:silver_dragon_leggings
 2,ARMOR,dungeons_and_combat:silver_helmet
 2,ARMOR,dungeons_and_combat:silver_leggings
+2,ARMOR,ec_ad:chorusoatl_boots
+2,ARMOR,ec_ad:chorusoatl_chestplate
+2,ARMOR,ec_ad:chorusoatl_helmet
+2,ARMOR,ec_ad:chorusoatl_leggings
+2,ARMOR,ec_ad:coralosaur_boots
+2,ARMOR,ec_ad:coralosaur_chestplate
+2,ARMOR,ec_ad:coralosaur_helmet
+2,ARMOR,ec_ad:coralosaur_leggings
+2,ARMOR,ec_ad:obsidiceratops_boots
+2,ARMOR,ec_ad:obsidiceratops_chestplate
+2,ARMOR,ec_ad:obsidiceratops_helmet
+2,ARMOR,ec_ad:obsidiceratops_leggings
+2,ARMOR,ec_ad:sculksaur_boots
+2,ARMOR,ec_ad:sculksaur_chestplate
+2,ARMOR,ec_ad:sculksaur_helmet
+2,ARMOR,ec_ad:sculksaur_leggings
+2,ARMOR,ec_ad:therimoss_boots
+2,ARMOR,ec_ad:therimoss_chestplate
+2,ARMOR,ec_ad:therimoss_helmet
+2,ARMOR,ec_ad:therimoss_leggings
 2,ARMOR,fantasy_armor:silver_knight_boots
 2,ARMOR,fantasy_armor:silver_knight_chestplate
 2,ARMOR,fantasy_armor:silver_knight_helmet
@@ -473,6 +494,8 @@ tier,kind,item
 2,RANGED,create:rare_thunder_package
 2,RANGED,create:rare_up_package
 2,RANGED,create:rare_vector_package
+2,RANGED,ec_ad:rib_bow
+2,RANGED,ec_ad:sculk_bow
 2,SHIELD,alexsmobs:shield_of_the_deep
 2,SHIELD,block_factorys_bosses:enhanced_shield
 2,SHIELD,cataclysm:azure_sea_shield
@@ -546,6 +569,7 @@ tier,kind,item
 2,WEAPON,dungeons_and_combat:silver_spear
 2,WEAPON,dungeons_and_combat:silver_sword
 2,WEAPON,dungeons_and_combat:slimy_knife
+2,WEAPON,ec_ad:theri_claw_iron
 2,WEAPON,epicfight:iron_dagger
 2,WEAPON,epicfight:iron_greatsword
 2,WEAPON,epicfight:iron_longsword
@@ -684,6 +708,10 @@ tier,kind,item
 3,ARMOR,dungeons_and_combat:wolf_steel_chestplate
 3,ARMOR,dungeons_and_combat:wolf_steel_helmet
 3,ARMOR,dungeons_and_combat:wolf_steel_leggings
+3,ARMOR,ec_ad:lushsaur_boots
+3,ARMOR,ec_ad:lushsaur_chestplate
+3,ARMOR,ec_ad:lushsaur_helmet
+3,ARMOR,ec_ad:lushsaur_leggings
 3,ARMOR,farm_and_charm:dungarees
 3,ARMOR,iceandfire:deathworm_red_boots
 3,ARMOR,iceandfire:deathworm_red_chestplate
@@ -806,6 +834,7 @@ tier,kind,item
 3,SHIELD,dungeons_and_combat:steel_shield
 3,SHIELD,dungeons_and_combat:white_dragon_shield
 3,SHIELD,morerelics:shieldweave_cape
+3,SHIELD,toepk:steamsparks_shield
 3,TOOL,betterend:diamond_hammer
 3,TOOL,betterend:terminite_hammer
 3,TOOL,betterend:terminite_pickaxe
@@ -837,6 +866,8 @@ tier,kind,item
 3,TOOL,minecraft:diamond_pickaxe
 3,TOOL,minecraft:diamond_shovel
 3,TOOL,mowziesmobs:earthrend_gauntlet
+3,TOOL,toepk:steamsparks_pickaxe
+3,TOOL,toepk:steamsparks_shovel
 3,WEAPON,alexscaves:extinction_spear
 3,WEAPON,alexscaves:galena_gauntlet
 3,WEAPON,aquamirae:terrible_fang
@@ -892,6 +923,7 @@ tier,kind,item
 3,WEAPON,dungeons_and_combat:titanium_axe
 3,WEAPON,dungeons_and_combat:titanium_sickle
 3,WEAPON,dungeons_and_combat:titanium_sword
+3,WEAPON,ec_ad:theri_claw_diamond
 3,WEAPON,efm_retaliation:hack_knife
 3,WEAPON,epicfight:diamond_dagger
 3,WEAPON,epicfight:diamond_longsword
@@ -955,6 +987,12 @@ tier,kind,item
 3,WEAPON,simplyswords:emberlash
 3,WEAPON,simplyswords:mjolnir
 3,WEAPON,simplyswords:soulstealer
+3,WEAPON,toepk:steamsparks_blade
+3,WEAPON,toepk:steamsparks_halberd
+3,WEAPON,toepk:steamsparks_spear
+3,WEAPON,toepk:steamsparks_staff
+3,WEAPON,toepk:steamsparks_sword
+3,WEAPON,toepk:utility_claw
 3,WEAPON,wom:agony
 3,WEAPON,wom:demon_bracelet
 3,WEAPON,wom:diamond_staff
@@ -1144,6 +1182,10 @@ tier,kind,item
 4,ARMOR,monsterexpansion:skrythe_chestplate
 4,ARMOR,monsterexpansion:skrythe_helmet
 4,ARMOR,monsterexpansion:skrythe_leggings
+4,ARMOR,toepk:steamsparks_boots
+4,ARMOR,toepk:steamsparks_chestplate
+4,ARMOR,toepk:steamsparks_helmet
+4,ARMOR,toepk:steamsparks_leggings
 4,MAGIC,iceandfire:lich_staff
 4,MAGIC,irons_spellbooks:lesser_spell_slot_upgrade
 4,MAGIC,irons_spellbooks:portal_frame
@@ -1153,6 +1195,7 @@ tier,kind,item
 4,RANGED,iceandfire:cockatrice_scepter
 4,RANGED,relics:magic_mirror
 4,RANGED,relics:space_dissector
+4,RANGED,toepk:steamsparks_bow
 4,SHIELD,block_factorys_bosses:ice_gauntlet
 4,SHIELD,dungeons_and_combat:neptunium_shield
 4,SHIELD,dungeons_and_combat:sandstone_shield
@@ -1205,6 +1248,7 @@ tier,kind,item
 4,WEAPON,dungeons_and_combat:titanium_greatsword
 4,WEAPON,dungeons_and_combat:true_claymore
 4,WEAPON,dungeons_and_combat:true_sword
+4,WEAPON,ec_ad:lush_mace
 4,WEAPON,efm_retaliation:leviathan_axe
 4,WEAPON,epicfight:diamond_greatsword
 4,WEAPON,epicfight:uchigatana
@@ -1261,6 +1305,9 @@ tier,kind,item
 4,WEAPON,simplyswords:toxic_longsword
 4,WEAPON,simplyswords:wraithfang
 4,WEAPON,simplyswords:wraithmaw
+4,WEAPON,toepk:steamsparks_axe
+4,WEAPON,toepk:steamsparks_battle_axe
+4,WEAPON,toepk:steamsparks_hammer
 4,WEAPON,wom:blackstar
 4,WEAPON,wom:diamond_greataxe
 4,WEAPON,wom:orbit
@@ -1425,7 +1472,6 @@ tier,kind,item
 5,TOOL,minecraft:netherite_pickaxe
 5,TOOL,minecraft:netherite_shovel
 5,WEAPON,aquamirae:dagger_of_greed
-5,WEAPON,aquamirae:maze_rose
 5,WEAPON,aquamirae:shatterblade
 5,WEAPON,aquamirae:shatterspike
 5,WEAPON,betternether:flaming_ruby_axe
@@ -1480,6 +1526,8 @@ tier,kind,item
 5,WEAPON,dungeons_and_combat:netherite_dagger
 5,WEAPON,dungeons_and_combat:netherite_sword
 5,WEAPON,dungeons_and_combat:netherite_trident
+5,WEAPON,ec_ad:chorus_scythe
+5,WEAPON,ec_ad:theri_claw_netherite
 5,WEAPON,efm_retaliation:draupnir_spear
 5,WEAPON,efn:air_tachi
 5,WEAPON,efn:air_tachi_e
@@ -1693,6 +1741,8 @@ tier,kind,item
 5,WEAPON,simplyswords:waxweaver
 5,WEAPON,simplyswords:whisperwind
 5,WEAPON,simplyswords:wickpiercer
+5,WEAPON,toepk:gear_sword
+5,WEAPON,toepk:steam_fist
 5,WEAPON,woc_remastered:zweiender
 5,WEAPON,wom:antitheus
 5,WEAPON,wom:ender_blaster
