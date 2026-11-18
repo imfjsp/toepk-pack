@@ -1,12 +1,12 @@
 name = "T'O EPK"
 author = "T'O EPK"
-version = "0.47.2"
+version = "0.47.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b38d81a76803c6fc63ff10340c7de0321fb5af8ec58813b021be27cdb89d7b4b"
+hash = "f074708d19cf4f493408ba99f54ba52bc08edd93cc76b78ef7837c33f710ceb4"
 
 [versions]
 minecraft = "1.20.1"
