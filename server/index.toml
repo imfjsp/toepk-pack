@@ -1880,11 +1880,6 @@ hash = "c0075c641648ef6440f108d4c47dc59d7b7f767d1e8a816006b8407ab3515a14"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-extra-bow-fix.pw.toml"
-hash = "aa790f180697a794cb01964ec3573a432dfc5d8f5b11d681eb6ee3eb70e09aeb"
-metafile = true
-
-[[files]]
 file = "mods/epic-fight-fantasy-weapons-epicfied.pw.toml"
 hash = "36d032147b8edb5268182cf3e536ede60654cdfa17978cd05b24bc652fd4a3af"
 metafile = true
@@ -1992,11 +1987,6 @@ metafile = true
 [[files]]
 file = "mods/epicfight-skill-extraslots.pw.toml"
 hash = "9e641176a1c66731c9bf7ee364d62ebe46792356f4d339be01286afc3866fd31"
-metafile = true
-
-[[files]]
-file = "mods/epicfightcurioscompat.pw.toml"
-hash = "5846eefeb3a9b9298bbdef4bc4e02a7038aa5c1c5d84cc57a96bb12d625c9ac5"
 metafile = true
 
 [[files]]
