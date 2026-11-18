@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/Quark Programmer Art.zip"
+hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
