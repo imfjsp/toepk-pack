@@ -606,7 +606,7 @@ hash = "73e89858b1378ae7329b64a33f1410648ce9e06bf6ba7e63b219b8d7cb64861b"
 
 [[files]]
 file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+hash = "1d5d0a2a2ae3c03fe738b7a96f3283b6024419e8dae7cf98fd045f5c4163c6e8"
 
 [[files]]
 file = "config/citadel-common.toml"
