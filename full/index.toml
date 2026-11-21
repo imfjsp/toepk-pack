@@ -826,7 +826,7 @@ hash = "d7af7850416f142257401203fb0ec3c4a02cd53ec6056d9f6bb26a21475d7fee"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "ddc5fbd30f09571d20a067fc993632bd59b9c902b2256f35b879e925c6f56963"
+hash = "b6f5ab791bc0870b1678e9d32d5269f80198f1479852a9071cd790352fe18dc7"
 
 [[files]]
 file = "config/epicfight-common.toml"
@@ -2950,8 +2950,8 @@ hash = "0322f3682b3b7789baa121a26a96f4469963648fdcbe7f3c065752358f395fc1"
 metafile = true
 
 [[files]]
-file = "mods/toepk-0.59.1.jar"
-hash = "ef000ae2236331271d528589b4f475d82eb496325fb89e037176870d538d8e6f"
+file = "mods/toepk-0.59.2.jar"
+hash = "79de9d224067fe9a7662bc3707d15b27fef9520ebac0ea02f27881f1757b80a1"
 
 [[files]]
 file = "mods/toepktweaks-1.0.4.jar"
@@ -3058,6 +3058,7 @@ hash = "b9319db9492a829b1c072fc993a578bd67bfe227ced50237f43e142fb6160975"
 [[files]]
 file = "options.txt"
 hash = "458bd21bb9d7ca5ed720e796c36be2f697e8374cff40a0656a4d700b6fd61603"
+preserve = true
 
 [[files]]
 file = "resourcepacks/Fresh Textures v2.0.1.1.zip"
