@@ -2559,6 +2559,26 @@ hash = "c79b50f698df09971e33a29dc07168220fcdf84dc07fd26eaaa442d2f113586d"
 metafile = true
 
 [[files]]
+file = "mods/servidor-alternate-current.pw.toml"
+hash = "150f4908f958e5ea74574615ae9841f08fd9df05f29d21a0ca9f764571e0f1d9"
+metafile = true
+
+[[files]]
+file = "mods/servidor-ksyxis.pw.toml"
+hash = "9e3dce5ee144b7215dbfa472ec07f491fc38f633125d20a0142878375b605ed9"
+metafile = true
+
+[[files]]
+file = "mods/servidor-memoryleakfix.pw.toml"
+hash = "280c6fd4b73653223f53fb582f44a2d730b49c0485a8402d81e4b131d27e8a0d"
+metafile = true
+
+[[files]]
+file = "mods/servidor-servercore.pw.toml"
+hash = "a27dee61afb65df4f3d75c3d28fd0e70dd863d8d551dc90abec4c282559e6edb"
+metafile = true
+
+[[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "92d6c7a07032aa5761b61c551cb1d1a0800a72b31475ca19ecf8ba1a60740785"
 metafile = true
