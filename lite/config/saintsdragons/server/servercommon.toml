@@ -18,7 +18,7 @@
 	#Global toggle for tame dragon happiness decay.
 	happinessDecayEnabled = true
 	#Whether players receive the one-time Saint's Dragons wiki reminder when joining a world.
-	wikiReminderEnabled = true
+	wikiReminderEnabled = false
 
 [ivy]
 	#Ticks between Ivy's trade restocks (20 ticks = 1 second, 24000 = 20 minutes).

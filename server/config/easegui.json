@@ -244,7 +244,7 @@
       "customProfiles": {}
     },
     "title": {
-      "enabled": true,
+      "enabled": false,
       "customProfiles": {},
       "logo": {
         "animateWholeText": false,
