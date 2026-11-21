@@ -2970,3 +2970,7 @@ metafile = true
 file = "resourcepacks/small-icons.pw.toml"
 hash = "e0aea7df66288e792f742e4793a47b6cc403afa12e2afc0b0c5942f3df05e190"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "6bde7bc2939ff7866d3a2011378270f1b25c40947ceb17d6ec85aced1f9b32f3"
