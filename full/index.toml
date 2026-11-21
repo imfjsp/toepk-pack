@@ -1285,34 +1285,6 @@ file = "config/railways-common.toml"
 hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
 
 [[files]]
-file = "config/rangos/LEEME.txt"
-hash = "9efdffe98589a4d824dfb413fde60ea5e5b87836aba22be35611591c1422ef84"
-
-[[files]]
-file = "config/rangos/_ajustes.json"
-hash = "6d6c639fa6390c90a7d0a2595713dd161fa346893f03dd0b3f6eb86d18976908"
-
-[[files]]
-file = "config/rangos/_sanciones.json"
-hash = "174c084bd8fc4a6f70af1ec5f569056dcd80787bbd83d505a4535536e5300954"
-
-[[files]]
-file = "config/rangos/_usuarios.json"
-hash = "9fd96becdba7a9b032dac5d81ae3b1530a15f3fbc32631f97ac0ddf99250cc0d"
-
-[[files]]
-file = "config/rangos/admin.json"
-hash = "a22a58c68b0e2c076f1833f7fb83591393c408277c6c3e97d6a701b89e147285"
-
-[[files]]
-file = "config/rangos/jugador.json"
-hash = "5201c5ed5edc55d10c287c2d5344e92f1c39a06a5b79a7ba6627afdd03c7a906"
-
-[[files]]
-file = "config/rangos/moderador.json"
-hash = "62843ffd2b92071bc26316e06e28fd8d616fc2967a80979c7179aaec9a268684"
-
-[[files]]
 file = "config/refurbished_furniture.client.toml"
 hash = "559649872d5ff0b9476330b468f5a4c7e21a053129ea92444693b9bbff87088b"
 
@@ -1382,7 +1354,7 @@ hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
 
 [[files]]
 file = "config/securitycraft-client.toml"
-hash = "b389265c37589ce6ff1581890fd2c0766b6477e223447a9670ba153008d331e1"
+hash = "3093c52280904c9a8f111fdf4a016c5785b817ac022389e19de9f61dbc8631bf"
 
 [[files]]
 file = "config/selling_bin-client.toml"
@@ -2978,8 +2950,8 @@ hash = "0322f3682b3b7789baa121a26a96f4469963648fdcbe7f3c065752358f395fc1"
 metafile = true
 
 [[files]]
-file = "mods/toepk-0.58.0.jar"
-hash = "fea28f9ee7d8f09aff79e254dc73a42d52755a77ed9252437b657b46ee909fd5"
+file = "mods/toepk-0.59.0.jar"
+hash = "8dfddaac18d4b7851200465ee14ab91ce76d5ac63d010f9302e2256178210e3b"
 
 [[files]]
 file = "mods/toepktweaks-1.0.4.jar"
@@ -3085,7 +3057,7 @@ hash = "b9319db9492a829b1c072fc993a578bd67bfe227ced50237f43e142fb6160975"
 
 [[files]]
 file = "options.txt"
-hash = "c89cbc00d2111b188c21a85746fafe2f91f2740d5ba98508457e341c7aebe75c"
+hash = "458bd21bb9d7ca5ed720e796c36be2f697e8374cff40a0656a4d700b6fd61603"
 
 [[files]]
 file = "resourcepacks/Fresh Textures v2.0.1.1.zip"
