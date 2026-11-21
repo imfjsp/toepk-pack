@@ -1,0 +1,90 @@
+{
+  "advertencias": {},
+  "silencios": {},
+  "registro": [
+    {
+      "fecha": 1795213313589,
+      "accion": "congeló",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": ""
+    },
+    {
+      "fecha": 1795213325060,
+      "accion": "descongeló",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": ""
+    },
+    {
+      "fecha": 1795213327741,
+      "accion": "silencio",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": "30 min · sin motivo"
+    },
+    {
+      "fecha": 1795213351953,
+      "accion": "vio inventario",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": ""
+    },
+    {
+      "fecha": 1795213364211,
+      "accion": "vio cofre de ender",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": ""
+    },
+    {
+      "fecha": 1795213386743,
+      "accion": "rango",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": "Moderador"
+    },
+    {
+      "fecha": 1795213414463,
+      "accion": "silencio",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": "30 min · sin motivo"
+    },
+    {
+      "fecha": 1795213418238,
+      "accion": "silencio",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": "30 min · 0"
+    },
+    {
+      "fecha": 1795213431290,
+      "accion": "silencio",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": "30 min · [0_no]"
+    },
+    {
+      "fecha": 1795213440841,
+      "accion": "quitó silencio",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": ""
+    },
+    {
+      "fecha": 1795234897641,
+      "accion": "rollback",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": "1d · todo el mundo · 1 bloques"
+    },
+    {
+      "fecha": 1795234913795,
+      "accion": "rollback",
+      "objetivo": "dozeinducing",
+      "por": "dozeinducing",
+      "detalle": "1m · todo el mundo · 16 bloques"
+    }
+  ]
+}

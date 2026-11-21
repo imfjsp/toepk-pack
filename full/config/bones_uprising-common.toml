@@ -1,0 +1,80 @@
+
+#Skeleton Warrior
+[warrior]
+	#Health (20 = 10 hearts). Same for all model variants.
+	#Range: 1.0 ~ 1024.0
+	health = 20.0
+	#Armor of variant 0. Other variants receive their own bonuses (+2, +1, -2, +4).
+	#Range: 0.0 ~ 1024.0
+	armor = 6.0
+	#Base damage of variant 0 on Normal difficulty. Difficulty modifiers and variant bonuses (+2.1 for variants 1 and 2) are applied on top.
+	#Range: 0.0 ~ 1024.0
+	damage = 6.2
+	#Spawn weight (chance). Vanilla: skeleton 100, zombie 95. 0 = do not spawn.
+	#Range: 0 ~ 1000
+	spawnWeight = 80
+	#Range: 1 ~ 16
+	minGroupSize = 2
+	#Range: 1 ~ 16
+	maxGroupSize = 3
+
+#Skeleton Guard
+[guard]
+	#Range: 1.0 ~ 1024.0
+	health = 22.0
+	#Range: 0.0 ~ 1024.0
+	armor = 16.0
+	#Base damage on Normal (physical part of hits 1 and 2). Difficulty modifiers are applied on top.
+	#Range: 0.0 ~ 1024.0
+	damage = 6.6
+	#Spawn weight. 0 = do not spawn.
+	#Range: 0 ~ 1000
+	spawnWeight = 50
+	#Range: 1 ~ 16
+	minGroupSize = 1
+	#Range: 1 ~ 16
+	maxGroupSize = 2
+
+#Skeleton Archer
+[archer]
+	#Range: 1.0 ~ 1024.0
+	health = 20.0
+	#Range: 0.0 ~ 1024.0
+	armor = 2.0
+	#Melee hit damage on Normal.
+	#Range: 0.0 ~ 1024.0
+	meleeDamage = 4.0
+	#Arrow damage on Normal. On Hard and Easy the value is recalculated using the same proportions as in the code.
+	#Range: 0.0 ~ 1024.0
+	arrowDamage = 5.5
+	#Spawn weight. 0 = do not spawn.
+	#Range: 0 ~ 1000
+	spawnWeight = 80
+	#Range: 1 ~ 16
+	minGroupSize = 2
+	#Range: 1 ~ 16
+	maxGroupSize = 3
+
+#Spawn biomes. Entry: biome id (minecraft:plains) or tag with a hash sign (#minecraft:is_overworld).
+[biomes]
+	#Spawning is allowed if the biome matches ANY of these entries.
+	include = ["#minecraft:is_overworld"]
+	#But do not spawn if the biome matches ANY of these entries.
+	exclude = ["#forge:is_hot/overworld", "#forge:is_cold/overworld", "#minecraft:is_jungle", "#minecraft:is_savanna", "#minecraft:is_badlands"]
+
+#Sacronit weapon damage. Restart Minecraft / the dedicated server after changing these values.
+#Values include the player's standard base damage of 1.
+#Sword and axe: MagicStrike adds 33.34%. Hammer: armor-piercing damage adds 85%.
+#COMMON config is not synced: use the same values on clients for matching tooltips.
+[weapons]
+	#Full base physical damage of the Sacronit Sword. Default: 6.
+	#Range: 0.0 ~ 1024.0
+	sacronitSwordDamage = 6.0
+	#Full base physical damage of the Sacronit Axe. Default: 9.
+	#Range: 0.0 ~ 1024.0
+	sacronitAxeDamage = 9.0
+	#Full base physical damage of the Sacronit Hammer. Default: 6.
+	#Additional armor-piercing damage is 85% of this value before attack charge scaling.
+	#Range: 0.0 ~ 1024.0
+	sacronitHammerDamage = 6.0
+

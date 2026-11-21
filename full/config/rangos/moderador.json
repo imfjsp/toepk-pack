@@ -1,0 +1,22 @@
+{
+  "nombre": "Moderador",
+  "color": "#4DA6FF",
+  "prioridad": 50,
+  "hereda": "jugador",
+  "nivelOperador": 0,
+  "permisos": [
+    "toepk.panel",
+    "toepk.panel.rendimiento",
+    "toepk.panel.jugadores",
+    "toepk.panel.sanciones",
+    "toepk.mod.advertir",
+    "toepk.mod.silenciar",
+    "toepk.mod.congelar",
+    "toepk.mod.expulsar",
+    "toepk.mod.banear",
+    "toepk.mod.inventario",
+    "toepk.mod.inspeccionar",
+    "toepk.mod.anuncio",
+    "toepk.mod.ir"
+  ]
+}

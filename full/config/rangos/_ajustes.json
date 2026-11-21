@@ -1,0 +1,12 @@
+{
+  "rangoPorDefecto": "jugador",
+  "rangoDeOperadores": "admin",
+  "sincronizarOperador": true,
+  "castigosPorAdvertencias": {
+    "3": "expulsar",
+    "5": "banear 1d",
+    "8": "banear perm"
+  },
+  "historialBloquesDias": 7,
+  "inventariosGuardados": 6
+}

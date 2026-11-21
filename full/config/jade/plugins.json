@@ -51,6 +51,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "saintsdragons": {
+    "egg_timer": true,
+    "draconic_crucible_timer": true,
+    "dragon_info": true
+  },
   "betternether": {
     "plant_growth": true
   },
@@ -85,5 +90,11 @@
   },
   "balm": {
     "jade": true
+  },
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "info": true,
+    "showcustomname": true
   }
 }

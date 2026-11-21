@@ -1,0 +1,12 @@
+name = "Sophisticated Item Actions"
+filename = "sophisticateditemactions-1.20.1-0.4.22.447.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "66a1a09ea41fc3e79862204fb5375369b08ed03a715abb3e4eaf356759d9d27f76828ef2efc70db4bbe4c5f429ead7558acb7addd84d49d232f821ce1ff4dd1c"
+url = "https://cdn.modrinth.com/data/RMW7bKVL/versions/EpWMyPJS/sophisticateditemactions-1.20.1-0.4.22.447.jar"
+
+[update.modrinth]
+mod-id = "RMW7bKVL"
+version = "EpWMyPJS"

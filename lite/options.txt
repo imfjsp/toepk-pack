@@ -356,3 +356,10 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.voice_chat:key.keyboard.j
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.k
+key_key.hide_icons:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.n
+key_key.whisper:key.keyboard.unknown

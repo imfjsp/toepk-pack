@@ -1,0 +1,10 @@
+{
+  "nombre": "Jugador",
+  "color": "#C8C8D4",
+  "prioridad": 0,
+  "hereda": "",
+  "nivelOperador": 0,
+  "permisos": [
+    "cmd.*"
+  ]
+}

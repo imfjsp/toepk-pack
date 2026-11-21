@@ -5,7 +5,7 @@
 
 	[common.general]
 		#Show welcome message || Default: true
-		welcome_message = true
+		welcome_message = false
 
 	[common.boss]
 		#Whether certain bosses require story progression from the player (or a nearby player) before they can be fought.

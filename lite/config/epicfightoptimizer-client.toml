@@ -7,7 +7,7 @@ enabled = true
 	#Distance in blocks where entities switch to their vanilla renderer.
 	#Lower values improve FPS more. Set the toggle above to false to disable this feature.
 	#Range: 8.0 ~ 256.0
-	vanillaModelDistance = 32.0
+	vanillaModelDistance = 24.0
 	#Use Minecraft's vanilla renderer when an eligible mob is entirely behind the camera.
 	useVanillaModelsBehindCamera = true
 	#Use Minecraft's vanilla renderer when an eligible mob is fully hidden behind opaque blocks.
@@ -17,7 +17,7 @@ enabled = true
 	#How often hidden-mob visibility is recalculated. 1 tick equals 50 ms.
 	#A value of 1 gives the fastest switch back to Epic Fight rendering.
 	#Range: 1 ~ 20
-	visibilityCheckIntervalTicks = 1
+	visibilityCheckIntervalTicks = 2
 	#Extra render-bound margin used to detect tiny visible model, limb and held-item edges.
 	#Higher values switch back to Epic Fight earlier around corners; lower values optimize more aggressively.
 	#Range: 0.0 ~ 2.0
@@ -64,11 +64,11 @@ enabled = true
 	capDistantAnimationFps = true
 	#Entities inside this distance calculate animation poses at the full game FPS.
 	#Range: 0.0 ~ 256.0
-	fullAnimationDistance = 12.0
+	fullAnimationDistance = 10.0
 	#Maximum animation pose FPS outside the full animation distance.
 	#Lower values improve CPU performance but make distant animations less smooth.
 	#Range: 5 ~ 240
-	distantAnimationFps = 20
+	distantAnimationFps = 15
 
 [effects]
 	#Do not create Epic Fight weapon swing trails beyond the configured distance.
