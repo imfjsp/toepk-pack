@@ -450,7 +450,7 @@ hash = "491fde1946719183368b2543c9d9702d5c6bae100192b0c1c7aed36ac26253b1"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "5e89952960a53fc82df239732cc1086661935da755b63013afe2294bd12bffd6"
+hash = "ce47186345c9648eca1679f0873b3af08704bc5e68e2c41efbd3858c30f32ad0"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
@@ -862,7 +862,7 @@ hash = "d26f38c0b743644dcc7191b54563abb3b73500b8e542bc32d71a5eea7904f7ca"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "4f1715c555f98a63ea503a180bfa2f833da95ff90519c2df9be3f3ca6dfab58b"
+hash = "d0785b2a6a3fbb95dd521119ec10702da1a3021db01f393345bb04d115b2c8c3"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -962,7 +962,7 @@ hash = "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24"
 
 [[files]]
 file = "config/handson_delight.properties"
-hash = "78291cba6aa855ca697651d3314fad172f1ec26860771e502df61ef9132cf8dd"
+hash = "e11c1d0c741ef47c5811b1f4b7a0c1ebb874b7e58a84b8709962655fb9c7cd63"
 
 [[files]]
 file = "config/ice_and_fire_spellbooks.toml"
@@ -2752,8 +2752,8 @@ hash = "0322f3682b3b7789baa121a26a96f4469963648fdcbe7f3c065752358f395fc1"
 metafile = true
 
 [[files]]
-file = "mods/toepk-0.59.0.jar"
-hash = "8dfddaac18d4b7851200465ee14ab91ce76d5ac63d010f9302e2256178210e3b"
+file = "mods/toepk-0.59.1.jar"
+hash = "ef000ae2236331271d528589b4f475d82eb496325fb89e037176870d538d8e6f"
 
 [[files]]
 file = "mods/toepk-servidor-1.2.0.jar"
